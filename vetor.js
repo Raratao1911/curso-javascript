@@ -17,4 +17,4 @@ for(cont = 0; cont < 3; cont++){
 
 //percorrendo mais moderno
 console.log('laço percorrendo moderno')
-notas.forEach(obj => console.log(notas[cont]))
+notas.forEach(obj => console.log(obj))
